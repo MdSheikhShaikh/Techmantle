@@ -1,0 +1,30 @@
+@media only screen and (max-width: 768px) {
+    /* Navbar starts*/
+    .navbar {
+        padding: 20px 15px;
+        height: 90px;
+    }
+    
+    /* Navbar Logo */
+    .navbar-logo-img {
+        width: 80%;
+        height: auto;
+    }
+    /* Navbar Logo */
+
+    /* Navbar Menu */
+    .navbar-menu-options {
+        gap: 20px;
+    }
+    /* Navbar Menu */
+    
+    
+    /* Navbar SignIn */
+    .navbar-signin {
+        display: none;
+    }
+    /* Navbar SignIn */
+    
+    
+    /* Navbar ends*/
+}

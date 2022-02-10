@@ -1,0 +1,53 @@
+@media only screen and (max-width: 1280px) {
+
+    /* Navbar starts*/
+    .navbar {
+        padding: 30px 35px;
+        height: 100px;
+    }
+    
+    /* Navbar Menu */
+    .navbar-menu-options {
+        gap: 25px;
+    }
+    .navbar-menu-options-list-text {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    /* Navbar Menu */
+    
+    
+    /* Navbar SignIn */
+    .navbar-signin {
+        gap: 18px;
+    }
+    .navbar-signin-text {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .navbar-signin-btn {
+        padding: 8px 25px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    /* Navbar SignIn */
+    
+    
+    /* Navbar ends*/
+
+    /* Hero Starts  */
+.hero {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.hero-title-heading-txt {}
+.hero-title-heading-line-brk {
+    display: none;
+}
+.hero-title-heading-pera-txt {}
+.hero-title-heading-pera-line-brk {
+    display: none;
+}
+.hero-btn {}
+/* Hero Ends */
+    }

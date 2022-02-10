@@ -1,0 +1,47 @@
+@media only screen and (max-width: 1536px) {
+
+/* Navbar starts*/
+.navbar {
+    padding: 40px 60px;
+    height: 120px;
+}
+
+/* Navbar Menu */
+.navbar--menu-options {
+    gap: 35px;
+}
+/* Navbar Menu */
+
+
+/* Navbar SignIn */
+.navbar-signin {
+    gap: 25px;
+}
+.navbar-signin-btn {
+    padding: 10px 40px;
+}
+/* Navbar SignIn */
+
+
+/* Navbar ends*/
+
+/* Hero Starts  */
+.hero {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.hero-header {
+    width: 50%;
+}
+.hero-header-img {
+    width: 100%;
+}
+.hero-titles {
+    width: 50%;
+}
+.hero-title-heading {
+    width: 100%;
+}
+.hero-title-heading-txt {}
+/* Hero Ends */
+}

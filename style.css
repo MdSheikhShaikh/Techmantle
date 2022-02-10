@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Rubik', sans-serif;
+}
+/* Navbar starts*/
+.navbar {
+    height: 145px;
+    padding: 45px 88px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+}
+/* Navbar Menu */
+.navbar-menu-options {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.navbar-menu-options-list-text {
+    text-decoration: none;
+    color: #4F5665;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+}
+/* Navbar Menu */
+
+
+/* Navbar SignIn */
+.navbar-signin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.navbar-signin-text {
+    color: #0B132A;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+}
+.navbar-signin-btn {
+    padding: 13px 45px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+    border: 2px solid #F53855;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F53855;
+}
+/* Navbar SignIn */
+
+/* Navbar-phnIcon */
+.navbar-phnIcon {
+    display: none;
+}
+/* Navbar-phnIcon */
+
+/* Navbar ends*/
+
+
+/* Hero Starts */
+.hero {
+    padding-top: 43px;
+    /* padding-left: 354px;
+    padding-right: 354px; */
+    padding-bottom: 51px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    gap: 43px;
+}
+
+/* Hero-titles */
+.hero-titles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 50px;
+}
+/* Hero-titles */
+
+/* Hero-title-heading */
+.hero-title-heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+}
+.hero-title-heading-txt {
+    color: #0B132A;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 70px;
+}
+.hero-title-heading-txt-bold {
+    font-weight: 700;
+}
+.hero-title-heading-pera-txt {
+    color: #4F5665;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.hero-btn {
+    padding: 17px 78px;
+    background-color: #F53855;
+    color: #ffffff;
+    border: 1px solid #F53855;
+    border-radius: 10px;
+    background-color: #F53855;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25px;
+}
+/* Hero-title-heading */
+
+
+/* Hero Ends */
